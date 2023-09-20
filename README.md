@@ -8,10 +8,9 @@ prestados por um único profissional dentista. Cabe ao seu (sua) secretário(a) 
 para cadastrar os pacientes e marcar suas consultas.
 
 Este projeto foi desenvolvido para o MVP da Sprint 1 da **Pós Gradução de Engenharia de Softwarer da PUC-Rio**. 
-
+<br>
 ---
-
-
+<br>
 ## Execução da aplicação
 
 Para executar esta aplicação, siga os passos enumerados a seguir:
