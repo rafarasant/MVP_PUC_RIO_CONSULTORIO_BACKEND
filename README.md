@@ -46,14 +46,14 @@ Isso deve ser feito no diretório raiz, através do terminal, a partir do seguin
 No terminal, execute o comando abaixo:
 
 ```
-(env)$ flask run --host 0.0.0.0 --port 5000
+(env)$ flask run --host 0.0.0.0 --port 7000
 ```
 
 Caso esteja em modo de desenvolvimento, recomenda-se executar o comando acima junto do parâmetro *reload*, o qual reinicia o servidor automaticamente
 após qualquer alteração no código fonte.
 
 ```
-(env)$ flask run --host 0.0.0.0 --port 5000 --reload
+(env)$ flask run --host 0.0.0.0 --port 7000 --reload
 ```
 
 
@@ -69,5 +69,5 @@ inserção dos dados referentes a cada uma.
 No navegador, abra o link abaixo para visualizar o status da API em execução.
 
 ```
-localhost:5000
+localhost:7000
 ```
