@@ -11,9 +11,11 @@ Este projeto foi desenvolvido para o MVP da Sprint 1 da **Pós Gradução de Eng
 
 ---
 
+
 ## Execução da aplicação
 
 Para executar esta aplicação, siga os passos enumerados a seguir:
+
 
 ### 1 - Clone o repositório
 
@@ -23,6 +25,7 @@ do comando abaixo:
 ```
 git clone (...)
 ```
+
 
 ### 2 - Instale as dependências
 
@@ -37,6 +40,7 @@ Isso deve ser feito no diretório raiz, através do terminal, a partir do seguin
 ```
 (env)$ pip install -r requirements.txt
 ```
+
 
 ### 3 - Execute a API
 
@@ -53,11 +57,13 @@ após qualquer alteração no código fonte.
 (env)$ flask run --host 0.0.0.0 --port 5000 --reload
 ```
 
+
 ### 5 - Banco de dados
 
 A pasta *database*, localizada na raiz do projeto, contém o arquivo *mvp.db*. Nela já se encontram criadas as duas tabelas necessárias para a execução
 da API (*paciente* e *consulta*). Ainda na pasta *database*, estão os arquivos do tipo *.txt* com os comandos em SQL para a criação das duas tabelas e para 
 inserção dos dados referentes a cada uma.
+
 
 ### 4 - Abra a API no navegador
 
