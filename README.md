@@ -22,7 +22,7 @@ Há duas opções para a clonagem do repositório. A primeira é o download atra
 do comando abaixo:
 
 ```
-git clone (...)
+[git clone (...)](https://github.com/rafarasant/MVP_PUC_RIO_CONSULTORIO_BACKEND.git)
 ```
 
 
