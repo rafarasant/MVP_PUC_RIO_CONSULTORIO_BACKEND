@@ -10,6 +10,7 @@ para cadastrar os pacientes e marcar suas consultas.
 Este projeto foi desenvolvido para o MVP da Sprint 1 da **Pós Gradução de Engenharia de Softwarer da PUC-Rio**. 
 
 ---
+
 ## Execução da aplicação
 
 Para executar esta aplicação, siga os passos enumerados a seguir:
@@ -19,9 +20,9 @@ Para executar esta aplicação, siga os passos enumerados a seguir:
 Há duas opções para a clonagem do repositório. A primeira é o download através de um arquivo do tipo *ZIP*. A segunda é através
 do comando abaixo:
 
----
+```
 git clone (...)
----
+```
 
 ### 2 - Instale as dependências
 
@@ -33,9 +34,9 @@ Isso deve ser feito no diretório raiz, através do terminal, a partir do seguin
 > Atenção: O símbolo *(env)$* presente nos comandos abaixo refere-se tão somente a um exemplo de ambiente virtual ativado. Contudo, não faz por parte dos
 > comandos em si.
 
----
+```
 (env)$ pip install -r requirements.txt
----
+```
 
 ### 3 - Execute a API
 
@@ -62,6 +63,6 @@ inserção dos dados referentes a cada uma.
 
 No navegador, abra o link abaixo para visualizar o status da API em execução.
 
----
+```
 localhost:5000
----
+```
