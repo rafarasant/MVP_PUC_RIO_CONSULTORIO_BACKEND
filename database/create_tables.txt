@@ -1,0 +1,21 @@
+# Cria tabela paciente
+
+CREATE TABLE paciente(
+id INTEGER PRIMARY KEY,
+cpf VARCHAR(11) UNIQUE NOT NULL,
+nome VARCHAR(255) NOT NULL,
+sobrenome VARCHAR(255) NOT NULL,
+data_nascimento VARCHAR(8),
+plano_saude BOOL NOT NULL DEFAULT 0
+)
+
+
+# Cria tabela consulta
+
+CREATE TABLE consulta(
+id INTEGER PRIMARY KEY,
+data VARCHAR(8) NOT NULL,
+horario VARCHAR (4) NOT NULL,
+paciente_id INT NOT NULL,
+FOREIGN KEY (paciente_id) REFERENCES paciente(id)
+)
