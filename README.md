@@ -18,8 +18,7 @@ Para executar esta aplicação, siga os passos enumerados a seguir:
 
 ### 1 - Clone o repositório
 
-Há duas opções para a clonagem do repositório. A primeira é o download através de um arquivo do tipo *ZIP*. A segunda é através
-do comando abaixo:
+Clone o repositório através do comando abaixo:
 
 ```
 [git clone (...)](https://github.com/rafarasant/MVP_PUC_RIO_CONSULTORIO_BACKEND.git)
