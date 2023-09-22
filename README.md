@@ -63,10 +63,10 @@ da API (*paciente* e *consulta*). Ainda na pasta *database*, estão os arquivos 
 inserção dos dados referentes a cada uma.
 
 
-### 4 - Abra a API no navegador
+### 4 - Documentação da API no navegador (Swagger)
 
 No navegador, abra o link abaixo para visualizar o status da API em execução.
 
 ```
-localhost:7000
+localhost:7000/
 ```
