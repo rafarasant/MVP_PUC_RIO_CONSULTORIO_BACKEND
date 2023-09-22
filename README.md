@@ -42,7 +42,7 @@ Isso deve ser feito no diretório raiz, através do terminal, a partir do seguin
 
 ### 3 - Execute a API
 
-No terminal, execute o comando abaixo:
+No terminal, execute o comando abaixo (certifique-se de que a porta 7000 está sendo usada para este projeto):
 
 ```
 (env)$ flask run --host 0.0.0.0 --port 7000
